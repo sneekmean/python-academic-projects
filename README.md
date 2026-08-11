@@ -28,4 +28,4 @@ Un sistema interactivo en consola desarrollado en Python para la gestión operat
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITO.git)
+   git clone [https://github.com/TU_USUARIO/python-academic-projects.git](https://github.com/sneekmean/python-academic-projects.git)
