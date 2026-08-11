@@ -2,6 +2,8 @@ python-academic-projects
 
 
 # 🍽️ Sistema de Gestión para Restaurantes (basico)
+## 📄 Especificaciones
+Puedes consultar las instrucciones originales en el [Documento del Proyecto](./proyecto%20elementos%20jackson%20rueda-%20202607979...).
 
 Un sistema interactivo en consola desarrollado en Python para la gestión operativa e inventario de un restaurante, creado como proyecto para el curso de **Elementos de Computación**.
 
