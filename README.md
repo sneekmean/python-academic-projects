@@ -1,31 +1,26 @@
-python-academic-projects
+# 💻 Proyectos Académicos de Python
 
-
-# 🍽️ Sistema de Gestión para Restaurantes (basico)
-## 📄 Especificaciones
-Puedes consultar las instrucciones originales en el [Documento del Proyecto](./proyecto%20elementos%20jackson%20rueda-%20202607979...).
-
-Un sistema interactivo en consola desarrollado en Python para la gestión operativa e inventario de un restaurante, creado como proyecto para el curso de **Elementos de Computación**.
+Repositorio que recopila los proyectos y trabajos prácticos desarrollados durante el curso de **Elementos de Computación** en la carrera de Ingeniería en Electrónica.
 
 ---
 
-## 🚀 Características Principales
+## 📁 Estructura del Repositorio
 
-* **📋 Gestión del Menú (CRUD):** Permite agregar, consultar, actualizar y eliminar platillos y bebidas del menú.
-* **🪑 Administración de Mesas:** Control de disponibilidad, asignación de mesas a clientes y estado en tiempo real.
-* **📝 Registro de Pedidos:** Levantamiento de comandas vinculadas a mesas específicas con cálculo automático del total.
-* **📦 Control de Inventario:** Descuento automático de stock/ingredientes al registrar consumos y alertas de insumos bajos.
-* **📊 Reportes Operativos:** Generación de resúmenes de ventas, platillos más vendidos y balance del día.
+* **`Proyecto_1_Restaurante/`**: Sistema de gestión operativo e inventario para un restaurante en consola.
+* **`Proyecto_2/`**: *(Descripción breve de lo que trata el Proyecto 2)*.
+* **`Proyecto_3/`**: *(Descripción breve de lo que trata el Proyecto 3)*.
 
 ---
 
-## 🛠️ Tecnologías e Instalación
+## 🛠️ Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
-* **Estructuras de Datos:** Diccionarios, listas, manejo de archivos/JSON para persistencia de datos.
+* **Herramientas:** Visual Studio Code / Git / GitHub
+* **Conceptos aplicados:** Flujos de control, estructuras de datos (listas, diccionarios), funciones modulares
 
-### Ejecución Local
+---
 
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/python-academic-projects.git](https://github.com/sneekmean/python-academic-projects.git)
+## 👤 Autor
+
+* **Jackson David Rueda Bolaños**
+* *Estudiante de Ingeniería en Electrónica*
