@@ -23,4 +23,4 @@ Programa interactivo en consola diseñado para gestionar la operación diaria de
 ## 🔧 Ejecución
 
 ```bash
-python "proyecto elementos jackson rueda- 202607979.py"
+python "proyecto elementos jackson rueda- 2026079798.py"
