@@ -6,7 +6,7 @@ Repositorio que recopila los proyectos y trabajos prácticos desarrollados duran
 
 ## 📁 Estructura del Repositorio
 
-* **`Proyecto_1_Restaurante/`**: Sistema de gestión operativo e inventario para un restaurante en consola.
+* **`Proyecto 1-sistema-de-gestion-de-restaurante-(basico)/`**: Sistema de gestión operativo e inventario para un restaurante en consola.
 * **`Proyecto_2/`**: *(Descripción breve de lo que trata el Proyecto 2)*.
 * **`Proyecto_3/`**: *(Descripción breve de lo que trata el Proyecto 3)*.
 
